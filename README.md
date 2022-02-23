@@ -1,5 +1,5 @@
 # GSAP Auto Slider
-GSAPを利用した横スクロールの自動スライダーです。
+GSAPとVanilla JSで実装した横スクロール自動スライダーのサンプルです。
 
 #### デモ
 https://codepen.io/sakata-kazuma/details/yLPEbWL
