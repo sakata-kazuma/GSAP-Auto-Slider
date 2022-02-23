@@ -61,7 +61,7 @@ function autoSlider(setOptions) {
 	}
 
 	//ie11 object fit ポリフィル
-  objectFitImages('.js-auto-slider-img img');
+	objectFitImages('.js-auto-slider-img img');
 
 	//設定をマージ
 	const options = Object.assign({}, defaultOptions, setOptions);
