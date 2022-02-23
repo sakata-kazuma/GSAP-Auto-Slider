@@ -59,15 +59,13 @@ autoSlider({
 
 
 ### オプション
-#### ページャー追加
+#### ・ページャー追加
 ##### 任意の場所にページャー用HTMLを追加
 ```
 <ul class="js-auto-slider-pager" id="js-auto-slider-pager"></ul>
 ```
 
-
-
-#### スライダー呼び出しコードにページャーオプションを追加
+##### スライダー呼び出しコードにページャーオプションを追加
 ```
 autoSlider({
   target: '#js-auto-slider',
@@ -75,8 +73,9 @@ autoSlider({
 });
 ```
 
+　  
 
-#### その他オプション
+#### ・その他オプション
 ```
 autoSlider({
   target: null,  //スライダー ターゲット設定
