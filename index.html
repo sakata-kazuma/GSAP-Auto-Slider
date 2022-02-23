@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JS Auto Slider Sample</title>
+  <link rel="stylesheet" href="auto-slider.min.css">
+  <style>
+    body {
+      margin: 0;
+      padding: 50px 0;
+    }
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>JS Auto Slider</h1>
+  <div class="js-auto-slider-wrap">
+    <div class="js-auto-slider-inner">
+      <div class="js-auto-slider" id="js-auto-slider">
+        <div class="js-auto-slider-elm">
+          <div class="js-auto-slider-img">
+            <img src="https://picsum.photos/id/101/1740/720" alt="" class="ob-fit-cover posi-full-img">
+          </div>
+        </div>
+        <div class="js-auto-slider-elm">
+          <div class="js-auto-slider-img">
+            <img src="https://picsum.photos/id/1015/1740/720" alt="" class="ob-fit-cover posi-full-img">
+          </div>
+        </div>
+        <div class="js-auto-slider-elm">
+          <div class="js-auto-slider-img">
+            <img src="https://picsum.photos/id/109/1740/720" alt="" class="ob-fit-cover posi-full-img">
+          </div>
+        </div>
+        <div class="js-auto-slider-elm">
+          <div class="js-auto-slider-img">
+            <img src="https://picsum.photos/id/110/1740/720" alt="" class="ob-fit-cover posi-full-img">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <ul class="js-auto-slider-pager" id="js-auto-slider-pager"></ul>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
+	<script src="auto-slider.min.js"></script>
+  <script>
+    //スライダー呼び出し
+    autoSlider({
+      target: '#js-auto-slider',
+      pager: '#js-auto-slider-pager'
+    });
+  </script>
+</body>
+</html>
