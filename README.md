@@ -29,22 +29,22 @@ https://codepen.io/sakata-kazuma/details/yLPEbWL
     <div class="js-auto-slider" id="js-auto-slider">
       <div class="js-auto-slider-elm">
         <div class="js-auto-slider-img">
-          <img src="https://picsum.photos/id/101/1740/720" alt="" class="ob-fit-cover posi-full-img">
+          <img src="https://picsum.photos/id/101/1740/720" alt="">
         </div>
       </div>
       <div class="js-auto-slider-elm">
         <div class="js-auto-slider-img">
-          <img src="https://picsum.photos/id/1015/1740/720" alt="" class="ob-fit-cover posi-full-img">
+          <img src="https://picsum.photos/id/1015/1740/720" alt="">
         </div>
       </div>
       <div class="js-auto-slider-elm">
         <div class="js-auto-slider-img">
-          <img src="https://picsum.photos/id/109/1740/720" alt="" class="ob-fit-cover posi-full-img">
+          <img src="https://picsum.photos/id/109/1740/720" alt="">
         </div>
       </div>
       <div class="js-auto-slider-elm">
         <div class="js-auto-slider-img">
-          <img src="https://picsum.photos/id/110/1740/720" alt="" class="ob-fit-cover posi-full-img">
+          <img src="https://picsum.photos/id/110/1740/720" alt="">
         </div>
       </div>
     </div>
