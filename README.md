@@ -15,10 +15,12 @@ https://codepen.io/sakata-kazuma/details/yLPEbWL
 
 #### JS読み込み
 ```
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
 <script src="file-path/auto-slider.min.js"></script>
 ```
 ※IE11へ対応する場合は `auto-slider-ie11.min.js` を読み込んでください。
 ```
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
 <script src="file-path/auto-slider-ie11.min.js"></script>
 ```
 
