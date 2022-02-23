@@ -97,3 +97,9 @@ autoSlider({
   pagerActiveClass: 'is-active', //スライダーページャー要素・button要素 active class
 });
 ```
+
+### 動作環境
+Internet Explorer 11  
+Google Chrome 最新版  
+Firefox 最新版  
+Safari 最新版
