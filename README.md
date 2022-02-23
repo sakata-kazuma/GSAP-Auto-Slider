@@ -17,6 +17,10 @@ https://codepen.io/sakata-kazuma/details/yLPEbWL
 ```
 <script src="file-path/auto-slider.min.js"></script>
 ```
+※IE11へ対応する場合は `auto-slider-ie11.min.js` を読み込んでください。
+```
+<script src="file-path/auto-slider-ie11.min.js"></script>
+```
 
 #### HTMLにレイアウトコードを追加
 ```
