@@ -2,7 +2,7 @@
 GSAPとVanilla JSで実装した横スクロール自動スライダーのサンプルです。
 
 #### デモ
-https://codepen.io/sakata-kazuma/details/yLPEbWL
+[codepen](https://codepen.io/web_walking_nak/pen/ExpxPwy)
 
 　  
 
